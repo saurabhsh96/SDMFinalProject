@@ -12,6 +12,8 @@ Articial dielectric multi-section transforms has to be designed.
 Effective impedance technique was used to design the ADL slabs.
 Binomial multi-section transformers were designed.
 
+Terahertz sensing group's (TU Delft) ADL tool was used for verifying the results of single section ADL layers.
+
 References:
 [1] W. E. Kock, “Metallic delay lenses,” Bell System Tech. J., vol. 27, no. 1, pp. 58-82, Jan. 1948.
 [2] S. S. D. Jones and J. Brown, “Metallic delay lenses,” Nature, vol. 163, no. 4139, pp. 324–325, Feb. 1949.
