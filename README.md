@@ -14,6 +14,8 @@ Binomial multi-section transformers were designed.
 
 Terahertz sensing group's (TU Delft) ADL tool was used for verifying the results of single section ADL layers.
 
+Implementation of S parameters to permittivity and permeability is the task that needs to be done for further improving the results.
+
 References:
 [1] W. E. Kock, “Metallic delay lenses,” Bell System Tech. J., vol. 27, no. 1, pp. 58-82, Jan. 1948.
 [2] S. S. D. Jones and J. Brown, “Metallic delay lenses,” Nature, vol. 163, no. 4139, pp. 324–325, Feb. 1949.
